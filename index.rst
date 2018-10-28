@@ -12,7 +12,9 @@
 一个好听众吗？
 
 一个80后将那些散落在网络空间里的关于收音机的故事收集起来说给你听，同时向那些终将逝去的岁月和辛苦养育我们长大的父辈一代致敬，
-你们的痕迹不会那么被轻易抹去。Red Liu lli_njupt@163.com。
+你们的痕迹不会那么被轻易抹去。Red Liu lli_njupt@163.com。 
+
+如果你愿意完善它，可以通过 git clone https://github.com/llinjupt/radiostory.git 获取它的源码，并联系我获取更新权限，让我们在某一个安静的午后一起追忆似水流年！
 
 .. toctree::
   :maxdepth: 1
