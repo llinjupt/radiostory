@@ -21,3 +21,4 @@
 
   bcl51_rst/*
   tecsun_rst/*
+  weixin_rst/*
